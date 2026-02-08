@@ -1,3 +1,4 @@
+#include <sillypad-layouts.dtsi>
 / {
     chosen {
         zmk,kscan = &kscan0;
