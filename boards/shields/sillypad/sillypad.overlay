@@ -6,7 +6,7 @@
         zmk,matrix_transform = &default_transform;
     };
     
-    default_transform: keymap_transform_0 {
+    default_transform: matrix_transform0 {
         compatible = "zmk,matrix-transform";
         columns = <3>;
         rows = <3>;
