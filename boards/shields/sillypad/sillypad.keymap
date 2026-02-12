@@ -21,5 +21,5 @@
 	combo_studio_unlock: combo_studio_unlock { timeout-ms = <150>; key-positions = <0 1>; bindings = <&studio_unlock>; };
 	combo_bt: combo_bt { timeout-ms = <150>; key-positions = <3 4 5>; bindings = <&to 1>; };
 	};
-	
+    };	
 };
